@@ -1,5 +1,5 @@
 # Guncel-Yapay-Zeka-Uygulamalari---Notlari
-Bu repo BTK akademide yayınlanan " Güncel Yapay zeka uygulamaları " sertifika programında aldığım notları içermektedir.
+Bu repo BTK akademide yayınlanan [Güncel Yapay zeka uygulamaları](https://www.btkakademi.gov.tr/portal/course/guncel-yapay-zeka-uygulamalari-59427) sertifika programında aldığım notları içermektedir.
 
 ## Notlar
 1. Python Temelleri
