@@ -7,3 +7,4 @@ Bu repo BTK akademide yayınlanan [Güncel Yapay zeka uygulamaları](https://www
 3. Eksik veri giderme
 4. Veri seti ilk işlemler ve görselleştirme
 5. Veri ön işleme
+6. Öz nitelik çıkartma
